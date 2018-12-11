@@ -11,8 +11,8 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.ListView;
-import android.widget.Toolbar;
 import android.widget.ViewFlipper;
+import android.support.v7.widget.Toolbar;
 
 import com.example.flame.coffeeshop.R;
 import com.squareup.picasso.Picasso;
