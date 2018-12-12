@@ -26,7 +26,7 @@
                 android:layout_height="200dp">
             </ViewFlipper>
             <LinearLayout
-                android:background="#59df47"
+                android:background="#3d9e31"
                 android:orientation="vertical"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
